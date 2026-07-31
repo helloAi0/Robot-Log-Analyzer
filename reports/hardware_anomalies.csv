@@ -1,0 +1,6 @@
+anomaly_category,timestamp,robot_id,level,subsystem,message,battery_level,cpu_usage,memory_usage,temperature
+low_battery,2026-07-31T12:15:00,AMR-002,CRITICAL,POWER,Voltage drop,14.0,92.0,60.0,71.0
+high_cpu,2026-07-31T12:05:00,AMR-001,ERROR,DRIVE,Wheel slip,82.0,89.0,50.0,67.5
+high_cpu,2026-07-31T12:15:00,AMR-002,CRITICAL,POWER,Voltage drop,14.0,92.0,60.0,71.0
+overheating,2026-07-31T12:05:00,AMR-001,ERROR,DRIVE,Wheel slip,82.0,89.0,50.0,67.5
+overheating,2026-07-31T12:15:00,AMR-002,CRITICAL,POWER,Voltage drop,14.0,92.0,60.0,71.0

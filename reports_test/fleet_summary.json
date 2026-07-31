@@ -1,0 +1,7 @@
+{
+    "status": "SUCCESS",
+    "fleet_summary": {
+        "total_robots": 2,
+        "avg_uptime": 85.71
+    }
+}

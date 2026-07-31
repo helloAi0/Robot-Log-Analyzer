@@ -1,0 +1,4 @@
+2026-07-31T12:00:00 [INFO] AMR-001 (NAV): Mission initialized | battery=95.0 cpu=22.0 mem=30.0 temp=35.0
+2026-07-31T12:02:00 [WARNING] AMR-001 (DRIVE): High friction slope detected | battery=88.0 cpu=78.0 mem=45.0 temp=58.0
+2026-07-31T12:05:00 [ERROR] AMR-001 (DRIVE): Wheel slip limit exceeded | battery=82.0 cpu=89.0 mem=60.0 temp=67.5
+2026-07-31T12:15:00 [CRITICAL] AMR-002 (POWER): Battery voltage drop below threshold | battery=14.0 cpu=92.0 mem=60.0 temp=71.0

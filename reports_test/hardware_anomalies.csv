@@ -1,0 +1,3 @@
+anomaly_category,timestamp,robot_id,level,subsystem,message,battery_level,cpu_usage,memory_usage,temperature
+overheating,2026-07-31T12:00:00,AMR-001,CRITICAL,DRIVE,Motor overtemp limit,45.0,,,72.5
+low_battery,2026-07-31T12:05:00,AMR-002,WARNING,POWER,Battery critically low,12.0,,,
