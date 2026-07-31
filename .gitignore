@@ -3,9 +3,12 @@ venv/
 ENV/
 env/
 
-# Python Bytecode and Cache
+# Python Cache & Testing
 __pycache__/
-*.py[cod]
+*.pyc
+.pytest_cache/
 
-# VS Code Settings
+# IDE / OS files
 .vscode/
+.idea/
+.DS_Store
