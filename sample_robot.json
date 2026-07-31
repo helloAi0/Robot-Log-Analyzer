@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2026-07-31T12:00:00",
+    "level": "INFO",
+    "robot_id": "AMR-001",
+    "subsystem": "NAV",
+    "message": "Mission initialized",
+    "battery_level": 95.0,
+    "cpu_usage": 22.0,
+    "memory_usage": 30.0,
+    "temperature": 35.0
+  },
+  {
+    "timestamp": "2026-07-31T12:02:00",
+    "level": "WARNING",
+    "robot_id": "AMR-001",
+    "subsystem": "DRIVE",
+    "message": "High friction slope",
+    "battery_level": 88.0,
+    "cpu_usage": 78.0,
+    "memory_usage": 45.0,
+    "temperature": 58.0
+  },
+  {
+    "timestamp": "2026-07-31T12:05:00",
+    "level": "ERROR",
+    "robot_id": "AMR-001",
+    "subsystem": "DRIVE",
+    "message": "Wheel slip",
+    "battery_level": 82.0,
+    "cpu_usage": 89.0,
+    "memory_usage": 50.0,
+    "temperature": 67.5
+  },
+  {
+    "timestamp": "2026-07-31T12:15:00",
+    "level": "CRITICAL",
+    "robot_id": "AMR-002",
+    "subsystem": "POWER",
+    "message": "Voltage drop",
+    "battery_level": 14.0,
+    "cpu_usage": 92.0,
+    "memory_usage": 60.0,
+    "temperature": 71.0
+  }
+]
