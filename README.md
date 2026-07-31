@@ -1,9 +1,7 @@
 # 🤖 Autonomous Mobile Robot (AMR) Telemetry Dashboard & Log Analyzer
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-FF4B4B)
-![Plotly](https://img.shields.io/badge/Plotly-Data%20Viz-3fbfb4)
-![License](https://img.shields.io/badge/License-MIT-green)
+* 🚀 **Live Web App:** [Launch Streamlit Dashboard](https://helloai0-robot-log-analyzer-app-mzejx1.streamlit.app)
+* 📜 **License:** [View MIT License](https://github.com/helloAi0/Robot-Log-Analyzer?tab=MIT-1-ov-file)
 
 An enterprise-grade, end-to-end telemetry analysis platform built for autonomous robot fleets. This application parses raw hardware logs, detects critical subsystem anomalies (e.g., thermal throttling, voltage drops), and visualizes fleet health in a real-time, interactive dashboard. 
 
